@@ -32,13 +32,15 @@ namespace Implementation.UseCases
                     Ticker = ticker.Ticker
                 });
             }
-            var ids = string.Join(",", searched.Select(x => "t" + x.Ticker ).ToArray());
+
+            var distinctTickers = searched.Select(x => "t" + x.Ticker).Distinct().ToList();
+            var tickers  = string.Join(",", distinctTickers);
             
             _client.BaseAddress = new Uri("https://api-pub.bitfinex.com/v2/tickers");
             var uri = _client.BaseAddress + "?symbols=";
 
 
-            HttpResponseMessage response = await _client.GetAsync(uri + ids);
+            HttpResponseMessage response = await _client.GetAsync(uri + tickers);
             var searchedFromApi = JsonConvert.DeserializeObject<List<List<string>>>(await response.Content.ReadAsStringAsync());
 
             
