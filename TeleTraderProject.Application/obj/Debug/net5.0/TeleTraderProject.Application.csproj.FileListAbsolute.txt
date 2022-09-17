@@ -1,0 +1,12 @@
+C:\Users\jokov\Desktop\TeleTraderProject\TeleTraderProject.Application\bin\Debug\net5.0\TeleTraderProject.Application.deps.json
+C:\Users\jokov\Desktop\TeleTraderProject\TeleTraderProject.Application\bin\Debug\net5.0\TeleTraderProject.Application.dll
+C:\Users\jokov\Desktop\TeleTraderProject\TeleTraderProject.Application\bin\Debug\net5.0\ref\TeleTraderProject.Application.dll
+C:\Users\jokov\Desktop\TeleTraderProject\TeleTraderProject.Application\bin\Debug\net5.0\TeleTraderProject.Application.pdb
+C:\Users\jokov\Desktop\TeleTraderProject\TeleTraderProject.Application\obj\Debug\net5.0\TeleTraderProject.Application.csprojAssemblyReference.cache
+C:\Users\jokov\Desktop\TeleTraderProject\TeleTraderProject.Application\obj\Debug\net5.0\TeleTraderProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jokov\Desktop\TeleTraderProject\TeleTraderProject.Application\obj\Debug\net5.0\TeleTraderProject.Application.AssemblyInfoInputs.cache
+C:\Users\jokov\Desktop\TeleTraderProject\TeleTraderProject.Application\obj\Debug\net5.0\TeleTraderProject.Application.AssemblyInfo.cs
+C:\Users\jokov\Desktop\TeleTraderProject\TeleTraderProject.Application\obj\Debug\net5.0\TeleTraderProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\jokov\Desktop\TeleTraderProject\TeleTraderProject.Application\obj\Debug\net5.0\TeleTraderProject.Application.dll
+C:\Users\jokov\Desktop\TeleTraderProject\TeleTraderProject.Application\obj\Debug\net5.0\ref\TeleTraderProject.Application.dll
+C:\Users\jokov\Desktop\TeleTraderProject\TeleTraderProject.Application\obj\Debug\net5.0\TeleTraderProject.Application.pdb
